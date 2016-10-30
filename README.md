@@ -1,5 +1,5 @@
 # :bug: WitcheryPatch
-![WitcheryPatch logo](https://raw.githubsercontent.com/elifoster/WitcheryPatch/master/logo.png)
+![WitcheryPatch logo](https://raw.githubusercontent.com/elifoster/WitcheryPatch/master/logo.png)
 
 WitcheryPatch is a small mod for Minecraft that uses ASM to fix some bugs within the Witchery
 mod, since Emoniph, the developer of Witchery, has vanished.
@@ -11,4 +11,4 @@ matching one. For example, without WitcheryPatch, viewing the recipes for the De
  show the recipe that takes a Demon Heart and a Diamond Vapor, but not the recipe that takes a
  Demon Heart and a Netherrack.
 
-![NEI showing all matching Distillery recipes](https://raw.githubsercontent.com/elifoster/WitcheryPatch/master/distillery.png)
+![NEI showing all matching Distillery recipes](https://raw.githubusercontent.com/elifoster/WitcheryPatch/master/distillery.png)
